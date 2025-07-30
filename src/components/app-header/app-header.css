@@ -1,0 +1,16 @@
+.app-header{
+    display: flex;
+    background-color: aquamarine;
+    width: 100vw;
+    height: 12vh;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    gap:320px
+}
+
+.nav-header{
+    display: flex;
+    align-items: center;
+    gap:70px
+}
