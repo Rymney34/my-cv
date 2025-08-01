@@ -1,0 +1,35 @@
+.AppMain{
+    display: flex;
+    justify-content: center;
+    height: 88vh;
+    align-items: center;
+
+}
+
+.aboutMeDiv{
+    border: 1px solid black;
+    width: 800px;
+    height: 500px;
+    display: flex;
+}
+
+.aboutMe{
+    border: 1px solid black;
+    width: 50%;
+    
+}
+
+.imageAvatar{
+    border-radius: 50%;
+}
+
+.whoIam{
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+
+.socials{
+    border: 1px solid black;
+}
+
